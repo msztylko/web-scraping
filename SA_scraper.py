@@ -1,9 +1,12 @@
 import requests, os
 
 url = 'http://blog.samaltman.com'
-os.makedirs('sam-altman', exist_ok=True) #create directory for saving all fav blog posts
-path = os.path.join(os.getcwd(), 'sam-altman')
+dir_name = 'sam-altman'
+os.makedirs(dir_name, exist_ok=True) #create directory for saving all fav blog posts
+path = os.path.join(os.getcwd(), dir_name)
 
+#I have a file fav_blog_posts.txt with the titles of my fav articles in each line
+#Correct urls have no ? , - ' and are contected by - between each word
 fav_urls = set()
 with open('fav_blog_posts.txt') as file:
     lines = file.readlines()
@@ -21,8 +24,8 @@ for fav_url in fav_urls:
     res = requests.get(full_url)
     try:
         res.raise_for_status()
-        file_name = os.path.join(path, fav_url + ".html")
-        with open(file_name, 'wb') as file:
+        file_path = os.path.join(path, fav_url + ".html")
+        with open(file_path, 'wb') as file:
             for chunk in res.iter_content(100000):
                 file.write(chunk)
                 print("Succesfully downloaded {}".format(fav_url))
