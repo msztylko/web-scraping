@@ -1,0 +1,1287 @@
+<!DOCTYPE html>
+<html class='no-js'>
+  <head>
+    <title>Sam Altman</title>
+
+    <meta content='width=device-width,initial-scale=1' name='viewport'>
+
+    <meta name="description" content="Sam Altman"/>
+<meta property="og:title" content="Sam Altman"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://blog.samaltman.com/"/>
+<meta property="og:site_name" content="Sam Altman"/>
+<meta property="og:description" content="Sam Altman"/>
+
+    <link href="https://phthemes.s3.amazonaws.com/189/ocI2l2NFgWKLlp1H/images/favicon.ico?v=1496356566" rel='shortcut icon' type='image/x-icon'>
+    <link href="//fonts.googleapis.com/css?family=Oxygen:400,700,300|Crimson+Text:400,400italic&amp;subset=latin,latin-ext"
+          media="screen" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://phthemes.s3.amazonaws.com/189/ocI2l2NFgWKLlp1H/blog.css?v=1496776340">
+
+    <link rel="alternate" type="application/atom+xml" href="http://blog.samaltman.com/posts.atom">
+      <script>
+        window.Posthaven = window.Posthaven || {};
+        window.Posthaven.currentPage = {"postIds":"1366783,1297076,1282115,1271062,1217560,1216781,1212724,1208716,1172795,1155072","pageCounter":"site-760"};
+        window.Posthaven.domain = 'posthaven.com';
+        window.Posthaven.strings = {"archive.no_results":"No results found.","date":null,"forms.comment.anon_error":"Please enter your name and email.","forms.subscribe.after_subscribe_notice":"You have been subscribed.","forms.subscribe.after_follow_notice":"You're now following this blog.","forms.subscribe.after_unfollow_notice":"You've unfollowed this blog.","gallery.of":"of","relative_date":null};
+      </script>
+      <link href="//posthaven-assets.s3.amazonaws.com/assets/blog-internal-10466eee3eaf71179266acc37f118fb8.css"
+            media="all" rel="stylesheet" />
+      
+      
+      
+      <script>
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId      : '488600357843531',
+              xfbml      : true,
+              version    : 'v2.6'
+            });
+          };
+
+          (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+        </script>
+  </head>
+
+  <body id='site_760'>
+    <div id='container'>
+      <nav class='posthaven-user-menu posthaven-control'>
+<span class='posthaven-user-required' style='display: none;'>
+<span class='posthaven-admin-required' style='display: none;'>
+<a href="https://posthaven.com/dashboard#sites/760">Manage</a>
+<a href="https://posthaven.com/dashboard#sites/760/posts/new">New Post</a>
+</span>
+<a href="/posthaven/xd/logout" data-posthaven-method="delete">Logout</a>
+</span>
+<span class='posthaven-anon'>
+<a href="https://posthaven.com/users/sign_in?return_host=blog.samaltman.com" class="posthaven-login">Login</a>
+</span>
+</nav>
+
+
+      <header id='topbar'>
+        <a href="https://posthaven.com/"><div class='posthaven-tab'></div></a>
+      </header>
+
+      <div id='flash'>
+        
+      </div>
+
+      
+        <header id='header'>
+          <h1>
+            <a href="http://blog.samaltman.com/">Sam Altman</a>
+          </h1>
+
+          
+            <h2></h2>
+          
+
+          
+        </header>
+      
+
+      <div id='main_container'>
+        <div id="main">
+  
+
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/how-to-be-successful">How To Be Successful</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1366783">
+    
+      <div class="posthaven-post-body"><p>I’ve observed thousands of founders and thought a lot about what it takes to make a huge amount of money or to create something important. Usually, people start off wanting the former and end up wanting the latter.<br></p><p> </p><p>Here are 13 thoughts about how to achieve such outlier success. Everything here is easier to do once you’ve already reached a baseline degree of success (through privilege or effort) and want to put in the work to turn that into outlier success. [1] But much of it applies to anyone.</p><p><b>1. Compound yourself</b></p><p>Compounding is magic. Look for it everywhere. Exponential curves are the key to wealth generation.</p><p> </p><p>A medium-sized business that grows 50% in value every year becomes huge in a very short amount of time. Few businesses in the world have true network effects and extreme scalability. But with technology, more and more will.  It’s worth a lot of effort to find them and create them.</p><p> </p><p>You also want to be an exponential curve yourself—you should aim for your life to follow an ever-increasing up-and-to-the-right trajectory. It’s important to move towards a career that has a compounding effect—most careers progress fairly linearly.</p><p> </p><p>You don't want to be in a career where people who have been doing it for two years can be as effective as people who have been doing it for twenty—your rate of learning should always be high. As your career progresses, each unit of work you do should generate more and more results. There are many ways to get this leverage, such as capital, technology, brand, network effects, and managing people.</p><p> </p><p>It’s useful to focus on adding another zero to whatever you define as your success metric—money, status, impact on the world, or whatever. I am willing to take as much time as needed between projects to find my next thing. But I always want it to be a project that, if successful, will make the rest of my career look like a footnote.</p><p> </p><p>Most people get bogged down in linear opportunities. Be willing to let small opportunities go to focus on potential step changes. </p><p> </p><p>I think the biggest competitive advantage in business—either for a company or for an individual’s career—is long-term thinking with a broad view of how different systems in the world are going to come together. One of the notable aspects of compound growth is that the furthest out years are the most important. In a world where almost no one takes a truly long-term view, the market richly rewards those who do.</p><p> </p><p>Trust the exponential, be patient, and be pleasantly surprised.</p><p><b>2. Have almost too much self-belief</b></p><p> </p><p>Self-belief is immensely powerful. The most successful people I know believe in themselves almost to the point of delusion.</p><p> </p><p>Cultivate this early. As you get more data points that your judgment is good and you can consistently deliver results, trust yourself more.</p><p> </p><p>If you don’t believe in yourself, it’s hard to let yourself have contrarian ideas about the future. But this is where most value gets created.</p><p> </p><p>I remember when Elon Musk took me on a tour of the SpaceX factory many years ago. He talked in detail about manufacturing every part of the rocket, but the thing that sticks in memory was the look of absolute certainty on his face when he talked about sending large rockets to Mars. I left thinking “huh, so that’s the benchmark for what conviction looks like.”</p><p> </p><p>Managing your own morale—and your team’s morale—is one of the greatest challenges of most endeavors. It’s almost impossible without a lot of self-belief. And unfortunately, the more ambitious you are, the more the world will try to tear you down.  </p><p> </p><p>Most highly successful people have been really right about the future at least once at a time when people thought they were wrong. If not, they would have faced much more competition.</p><p> </p><p>Self-belief must be balanced with self-awareness. I used to hate criticism of any sort and actively avoided it. Now I try to always listen to it with the assumption that it’s true, and then decide if I want to act on it or not. Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion.</p><p> </p><p>This balance also helps you avoid coming across as entitled and out of touch.</p><p><b>3. Learn to think independently</b></p><p> </p><p>Entrepreneurship is very difficult to teach because original thinking is very difficult to teach. School is not set up to teach this—in fact, it generally rewards the opposite. So you have to cultivate it on your own.</p><p> </p><p>Thinking from first principles and trying to generate new ideas is fun, and finding people to exchange them with is a great way to get better at this. The next step is to find easy, fast ways to test these ideas in the real world.</p><p> </p><p>“I will fail many times, and I will be really right once” is the entrepreneurs’ way. You have to give yourself a lot of chances to get lucky.</p><p> </p><p>One of the most powerful lessons to learn is that you can figure out what to do in situations that seem to have no solution. The more times you do this, the more you will believe it. Grit comes from learning you can get back up after you get knocked down.</p><p><b>4. Get good at “sales”</b></p><p>Self-belief alone is not sufficient—you also have to be able to convince other people of what you believe.</p><p> </p><p>All great careers, to some degree, become sales jobs. You have to evangelize your plans to customers, prospective employees, the press, investors, etc. This requires an inspiring vision, strong communication skills, some degree of charisma, and evidence of execution ability.</p><p> </p><p>Getting good at communication—particularly written communication—is an investment worth making. My best advice for communicating clearly is to first make sure your thinking is clear and then use plain, concise language.</p><p> </p><p>The best way to be good at sales is to genuinely believe in what you’re selling. Selling what you truly believe in feels great, and trying to sell snake oil feels awful.</p><p> </p><p>Getting good at sales is like improving at any other skill—anyone can get better at it with deliberate practice. But for some reason, perhaps because it feels distasteful, many people treat it as something unlearnable. </p><p> </p><p>My other big sales tip is to show up in person whenever it’s important. When I was first starting out, I was always willing to get on a plane. It was frequently unnecessary, but three times it led to career-making turning points for me that otherwise would have gone the other way.</p><p> </p><p><b>5. Make it easy to take risks</b></p><p> </p><p>Most people overestimate risk and underestimate reward. Taking risks is important because it’s impossible to be right all the time—you have to try many things and adapt quickly as you learn more.</p><p> </p><p>It’s often easier to take risks early in your career; you don’t have much to lose, and you potentially have a lot to gain. Once you’ve gotten yourself to a point where you have your basic obligations covered you should try to make it easy to take risks. Look for small bets you can make where you lose 1x if you’re wrong but make 100x if it works. Then make a bigger bet in that direction.</p><p> </p><p>Don’t save up for too long, though. At YC, we’ve often noticed a problem with founders that have spent a lot of time working at Google or Facebook. When people get used to a comfortable life, a predictable job, and a reputation of succeeding at whatever they do, it gets very hard to leave that behind (and people have an incredible ability to always match their lifestyle to next year’s salary). Even if they do leave, the temptation to return is great. It’s easy—and human nature—to prioritize short-term gain and convenience over long-term fulfillment.  </p><p> </p><p>But when you aren’t on the treadmill, you can follow your hunches and spend time on things that might turn out to be really interesting. Keeping your life cheap and flexible for as long as you can is a powerful way to do this, but obviously comes with tradeoffs.</p><p><b>6. Focus</b></p><p>Focus is a force multiplier on work.</p><p> </p><p>Almost everyone I’ve ever met would be well-served by spending more time thinking about what to focus on. It is much more important to work on the right thing than it is to work many hours. Most people waste most of their time on stuff that doesn’t matter.</p><p> </p><p>Once you have figured out what to do, be unstoppable about getting your small handful of priorities accomplished quickly. I have yet to meet a slow-moving person who is very successful.</p><p><b>7. Work hard</b></p><p>You can get to about the 90th percentile in your field by working either smart or hard, which is still a great accomplishment. But getting to the 99th percentile requires both—you will be competing with other very talented people who will have great ideas and be willing to work a lot. </p><p> </p><p>Extreme people get extreme results. Working a lot comes with huge life trade-offs, and it’s perfectly rational to decide not to do it. But it has a lot of advantages. As in most cases, momentum compounds, and success begets success.</p><p> </p><p>And it’s often really fun. One of the great joys in life is finding your purpose, excelling at it, and discovering that your impact matters to something larger than yourself. A YC founder recently expressed great surprise about how much happier and more fulfilled he was after leaving his job at a big company and working towards his maximum possible impact. Working hard at that should be celebrated.  </p><p> </p><p>It’s not entirely clear to me why working hard has become a Bad Thing in certain parts of the US, but this is certainly not the case in other parts of the world—the amount of energy and drive exhibited by entrepreneurs outside of the US is quickly becoming the new benchmark.</p><p> </p><p>You have to figure out how to work hard without burning out. People find their own strategies for this, but one that almost always works is to find work you like doing with people you enjoy spending a lot of time with.</p><p> </p><p>I think people who pretend you can be super successful professionally without working most of the time (for some period of your life) are doing a disservice. In fact, work stamina seems to be one of the biggest predictors of long-term success.</p><p> </p><p>One more thought about working hard: do it at the beginning of your career. Hard work compounds like interest, and the earlier you do it, the more time you have for the benefits to pay off. It’s also easier to work hard when you have fewer other responsibilities, which is frequently but not always the case when you’re young.</p><p><b>8. Be bold</b></p><p>I believe that it’s easier to do a hard startup than an easy startup. People want to be part of something exciting and feel that their work matters.</p><p> </p><p>If you are making progress on an important problem, you will have a constant tailwind of people wanting to help you. Let yourself grow more ambitious, and don’t be afraid to work on what you really want to work on.</p><p> </p><p>If everyone else is starting meme companies, and you want to start a gene-editing company, then do that and don’t second guess it.</p><p> </p><p>Follow your curiosity. Things that seem exciting to you will often seem exciting to other people too.</p><p><b>9. Be willful</b></p><p>A big secret is that you can bend the world to your will a surprising percentage of the time—most people don’t even try, and just accept that things are the way that they are.</p><p>People have an enormous capacity to make things happen. A combination of self-doubt, giving up too early, and not pushing hard enough prevents most people from ever reaching anywhere near their potential.</p><p> </p><p>Ask for what you want. You usually won’t get it, and often the rejection will be painful. But when this works, it works surprisingly well. </p><p> </p><p>Almost always, the people who say “I am going to keep going until this works, and no matter what the challenges are I’m going to figure them out”, and mean it, go on to succeed. They are persistent long enough to give themselves a chance for luck to go their way.</p><p> </p><p>Airbnb is my benchmark for this. There are so many stories they tell that I wouldn’t recommend trying to reproduce (keeping maxed-out credit cards in those nine-slot three-ring binder pages kids use for baseball cards, eating dollar store cereal for every meal, battle after battle with powerful entrenched interest, and on and on) but they managed to survive long enough for luck to go their way.</p><p> </p><p>To be willful, you have to be optimistic—hopefully this is a personality trait that can be improved with practice. I have never met a very successful pessimistic person.</p><p><b>10. Be hard to compete with</b></p><p>Most people understand that companies are more valuable if they are difficult to compete with. This is important, and obviously true.</p><p> </p><p>But this holds true for you as an individual as well. If what you do can be done by someone else, it eventually will be, and for less money.</p><p> </p><p>The best way to become difficult to compete with is to build up leverage. For example, you can do it with personal relationships, by building a strong personal brand, or by getting good at the intersection of multiple different fields. There are many other strategies, but you have to figure out some way to do it.</p><p> </p><p>Most people do whatever most people they hang out with do. This mimetic behavior is usually a mistake—if you’re doing the same thing everyone else is doing, you will not be hard to compete with.</p><p><b>11. Build a network</b></p><p>Great work requires teams. Developing a network of talented people to work with—sometimes closely, sometimes loosely—is an essential part of a great career. The size of the network of really talented people you know often becomes the limiter for what you can accomplish.</p><p> </p><p>An effective way to build a network is to help people as much as you can. Doing this, over a long period of time, is what lead to most of my best career opportunities and three of my four best investments. I’m continually surprised how often something good happens to me because of something I did to help a founder ten years ago.</p><p> </p><p>One of the best ways to build a network is to develop a reputation for really taking care of the people who work with you. Be overly generous with sharing the upside; it will come back to you 10x. Also, learn how to evaluate what people are great at, and put them in those roles. (This is the most important thing I have learned about management, and I haven’t read much about it.) You want to have a reputation for pushing people hard enough that they accomplish more than they thought they could, but not so hard they burn out.</p><p> </p><p>Everyone is better at some things than others. Define yourself by your strengths, not your weaknesses. Acknowledge your weaknesses and figure out how to work around them, but don’t let them stop you from doing what you want to do. “I can’t do X because I’m not good at Y” is something I hear from entrepreneurs surprisingly often, and almost always reflects a lack of creativity. The best way to make up for your weaknesses is to hire complementary team members instead of just hiring people who are good at the same things you are.</p><p> </p><p>A particularly valuable part of building a network is to get good at discovering undiscovered talent. Quickly spotting intelligence, drive, and creativity gets much easier with practice. The easiest way to learn is just to meet a lot of people, and keep track of who goes on to impress you and who doesn’t. Remember that you are mostly looking for rate of improvement, and don’t overvalue experience or current accomplishment.</p><p> </p><p>I try to always ask myself when I meet someone new “is this person a force of nature?” It’s a pretty good heuristic for finding people who are likely to accomplish great things.</p><p> </p><p>A special case of developing a network is finding someone eminent to take a bet on you, ideally early in your career. The best way to do this, no surprise, is to go out of your way to be helpful. (And remember that you have to pay this forward at some point later!)</p><p> </p><p>Finally, remember to spend your time with positive people who support your ambitions.</p><p> </p><p><b>12. You get rich by owning things</b></p><p>The biggest economic misunderstanding of my childhood was that people got rich from high salaries. Though there are some exceptions—entertainers for example —almost no one in the history of the Forbes list has gotten there with a salary.</p><p> </p><p>You get truly rich by owning things that increase rapidly in value.</p><p> </p><p>This can be a piece of a business, real estate, natural resource, intellectual property, or other similar things. But somehow or other, you need to own equity in something, instead of just selling your time. Time only scales linearly.</p><p> </p><p>The best way to make things that increase rapidly in value is by making things people want at scale. </p><p><b>13. Be internally driven</b></p><p>Most people are primarily externally driven; they do what they do because they want to impress other people. This is bad for many reasons, but here are two important ones.</p><p> </p><p>First, you will work on consensus ideas and on consensus career tracks.  You will care a lot—much more than you realize—if other people think you’re doing the right thing. This will probably prevent you from doing truly interesting work, and even if you do, someone else would have done it anyway.</p><p> </p><p>Second, you will usually get risk calculations wrong. You’ll be very focused on keeping up with other people and not falling behind in competitive games, even in the short term.</p><p> </p><p>Smart people seem to be especially at risk of such externally-driven behavior. Being aware of it helps, but only a little—you will likely have to work super-hard to not fall in the mimetic trap.</p><p> </p><p>The most successful people I know are primarily internally driven; they do what they do to impress themselves and because they feel compelled to make something happen in the world. After you’ve made enough money to buy whatever you want and gotten enough social status that it stops being fun to get more, this is the only force I know of that will continue to drive you to higher levels of performance.</p><p> </p><p>This is why the question of a person’s motivation is so important. It’s the first thing I try to understand about someone. The right motivations are hard to define a set of rules for, but you know it when you see it. </p><p> </p><p>Jessica Livingston and Paul Graham are my benchmarks for this. YC was widely mocked for the first few years, and almost no one thought it would be a big success when they first started. But they thought it would be great for the world if it worked, and they love helping people, and they were convinced their new model was better than the existing model.</p><p> </p><p>Eventually, you will define your success by performing excellent work in areas that are important to you. The sooner you can start off in that direction, the further you will be able to go. It is hard to be wildly successful at anything you aren’t obsessed with.</p><br>[1] A comment response I wrote on HN:<div><br></div><div>One of the biggest reasons I'm excited about basic income is the amount of human potential it will unleash by freeing more people to take risks.<p>Until then, if you aren't born lucky, you have to claw your way up for awhile before you can take big swings. If you are born in extreme poverty, then this is super difficult :(</p>
+<p>It is obviously an incredible shame and waste that opportunity is so unevenly distributed. But I've witnessed enough people be born with the deck stacked badly against them and go on to incredible success to know it's possible.</p>I am deeply aware of the fact that I personally would not be where I am if I weren't born incredibly lucky.<div>
+<br><br><p>Thanks to Brian Armstrong, Greg Brockman, Dalton Caldwell, Diane von Furstenberg, Maddie Hall, Drew Houston, Vinod Khosla, Jessica Livingston, Jon Levy, Luke Miles (6 drafts!), Michael Moritz, Ali Rowghani, Michael Seibel, Peter Thiel, Tracy Young and Shivon Zilis for reviewing drafts of this, and thanks especially to Lachy Groom for help writing it.</p>
+<p> </p>
+<br>
+</div>
+</div></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1366783' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+1354
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='How To Be Successful' data-url='http://blog.samaltman.com/how-to-be-successful' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/how-to-be-successful' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/how-to-be-successful"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1548363667"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/reinforcement-learning-progress">Reinforcement Learning Progress</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1297076">
+    
+      <div class="posthaven-post-body"><p>Today, <a href="https://blog.openai.com/openai-five/">OpenAI released a new result</a>.  We used PPO (Proximal Policy Optimization), a general reinforcement learning algorithm invented by OpenAI, to train a team of 5 agents to play Dota and beat semi-pros.</p>
+<p>This is the game that to me feels closest to the real world and complex decision making (combining strategy, tactics, coordinating, and real-time action) of any game AI had made real progress against so far.</p>
+<p>The agents we train consistently outperform two-week old agents with a win rate of 90-95%.  We did this without training on human-played games—we did design the reward functions, of course, but the algorithm figured out how to play by training against itself.</p>
+<p>This is a big deal because it shows that deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment that captures the problem you’re solving.  We hope to use this same approach to solve very different problems soon.  It's easy to imagine this being applied to environments that look increasingly like the real world.</p>
+<p>There are many problems in the world that are far too complex to hand-code solutions for.  I expect this to be a large branch of machine learning, and an important step on the road towards general intelligence.</p></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1297076' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+169
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='Reinforcement Learning Progress' data-url='http://blog.samaltman.com/reinforcement-learning-progress' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/reinforcement-learning-progress' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/reinforcement-learning-progress"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1529943037"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/us-digital-currency">US Digital Currency</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1282115">
+    
+      <div class="posthaven-post-body"><p>I am pretty sure cryptocurrency is here to stay in some form (at least as a store of value, which is the only use case we have seen work at scale so far).  There was possibly a time when governments could have totally stopped it, but it feels like that’s in the rearview mirror.<br></p><p> </p><p>However, I think it’s very possible that the dominant cryptocurrency hasn’t been created yet (Google was years late to the search engine party, and Facebook came long after most people assumed the social network wars were won).  And from the perspective of a nation, there are real problems with current systems, especially around pseudo-anonymity, ability to function as an actual currency, and taxability.</p><p> </p><p>Although I don’t think the US government can stop cryptocurrency, I do think it could create the winner–let’s call it “USDC” for US Digital Currency–and fix some challenges that governments currently face with cryptocurrency.</p><p>I think the first superpower government to do something like this will have an enviable position in the future of the world, and some power over a worldwide currency.</p><p> </p><p>The US government could decide to treat USDC as a second legal currency, which would be hugely powerful.  (I think the US doing this would be significantly more impactful than the smaller governments thinking about it now.)</p><p> </p><p>Ideally the initial coins would be evenly distributed to US citizens and taxpayers—something like everyone with a social security number gets two coins, one that is immediately sellable and one that you have to keep for 10 years.</p><p> </p><p>USDC could require that certain transaction can only happen with wallets with known owners.  It could even build a tax system into the protocol.</p><p> </p><p>A tricky part of this would be how to balance letting the network have control over itself and letting the government have some special degree of input on ‘monetary policy’.  It’s certainly ok for the government to have some, but I think the network needs to be mostly in charge (e.g., the government couldn’t be allowed to arbitrarily inflate the currency when it wanted to).</p><p>The current practices seem to be for governments to mostly ignore cryptocurrency and cryptocurrency enthusiasts to mostly ignore government, which seems to me to be unsustainable in both directions.  But I believe there exists a middle ground where the government can get a lot of what it wants, and cryptocurrency users can get a lot of what they want too.</p><p>The government can likely create a lot of de novo wealth for its citizens in the process.<br></p></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1282115' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+152
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='US Digital Currency' data-url='http://blog.samaltman.com/us-digital-currency' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/us-digital-currency' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/us-digital-currency"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1525972027"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/productivity">Productivity</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1271062">
+    
+      <div class="posthaven-post-body"><p>I think I am
+at least somewhat more productive than average, and people sometimes ask me for
+productivity tips.  So I decided to just write them all down in one place.</p>
+
+<p>Compound
+growth gets discussed as a financial concept, but it works in careers as well,
+and it is magic.  A small productivity
+gain, compounded over 50 years, is worth a lot. 
+So it’s worth figuring out how to optimize productivity. If you get 10%
+more done and 1% better every day compared to someone else, the compounded
+difference is massive. </p>
+
+<p><b>What you work on</b></p>
+
+<p>It doesn’t
+matter how fast you move if it’s in a worthless direction.  Picking the right thing to work on is the
+most important element of productivity and usually almost ignored.  So think about it more!  Independent thought is hard but it’s
+something you can get better at with practice.</p>
+
+<p>The most
+impressive people I know have strong beliefs about the world, which is rare in
+the general population.  If you find yourself always agreeing with whomever
+you last spoke with, that’s bad.  You
+will of course be wrong sometimes, but develop the confidence to stick with
+your convictions.  It will let you be
+courageous when you’re right about something important that most people don’t
+see.</p>
+
+<p>I make sure to
+leave enough time in my schedule to think about what to work on.  The best
+ways for me to do this are reading books, hanging out with interesting people,
+and spending time in nature.</p>
+
+<p>I’ve learned
+that I can’t be very productive working on things I don’t care about or don’t
+like.  So I just try not to put myself in a position where I have to do
+them (by delegating, avoiding, or something else).  Stuff that you don’t
+like is a painful drag on morale and momentum.</p>
+
+<p>By the way,
+here is an important lesson about delegation: remember that everyone else is also
+most productive when they’re doing what they like, and do what you’d want other
+people to do for you—try to figure out who likes (and is good at) doing what,
+and delegate that way.  </p>
+
+<p>If you find
+yourself not liking what you’re doing for a long period of time, seriously
+consider a major job change.  Short-term burnout happens, but if it isn’t
+resolved with some time off, maybe it’s time to do something you’re more
+interested in. </p>
+
+<p>I’ve been very
+fortunate to find work I like so much I’d do it for free, which makes it easy
+to be really productive.</p>
+
+<p>It’s important
+to learn that you can learn anything you want, and that you can get better
+quickly.  This feels like an unlikely miracle the first few times it
+happens, but eventually you learn to trust that you can do it.</p>
+
+<p>Doing great
+work usually requires colleagues of some sort.  Try to be around smart,
+productive, happy, and positive people that don’t belittle your ambitions.  I love being around people who push me and
+inspire me to be better.  To the degree
+you able to, avoid the opposite kind of people—the cost of letting them take up
+your mental cycles is horrific. </p>
+
+<p>You have to
+both pick the right problem and do the work.  There aren’t many
+shortcuts.  If you’re going to do
+something really important, you are very likely going to work both smart and
+hard.  The biggest prizes are heavily competed for.  This isn’t true in every field (there are
+great mathematicians who never spend that many hours a week working) but it is
+in most.</p>
+
+<p><b>﻿Prioritization</b><br></p>
+
+<p>My system has
+three key pillars: “Make sure to get the important shit done”, “Don’t waste
+time on stupid shit”, and “make a lot of lists”.</p>
+
+<p>I highly
+recommend using lists.  I make lists of what I want to accomplish each
+year, each month, and each day.  Lists are very focusing, and they help me
+with multitasking because I don’t have to keep as much in my head.  If I’m not in the mood for some particular
+task, I can always find something else I’m excited to do.</p>
+
+<p>I prefer lists
+written down on paper.  It’s easy to add
+and remove tasks.  I can access them
+during meetings without feeling rude.  I
+re-transcribe lists frequently, which forces me to think about everything on the
+list and gives me an opportunity to add and remove items.</p>
+
+<p>I don’t bother
+with categorization or trying to size tasks or anything like that (the most I
+do is put a star next to really important items).  </p>
+
+<p>I try to
+prioritize in a way that generates momentum.  The more I get done, the
+better I feel, and then the more I get done. 
+I like to start and end each day with something I can really make
+progress on.</p>
+
+<p>I am
+relentless about getting my most important projects done—I’ve found that if I
+really want something to happen and I push hard enough, it usually happens. </p>
+
+<p>I try to be
+ruthless about saying no to stuff, and doing non-critical things in the
+quickest way possible.  I probably take this too far—for example, I am
+almost sure I am terse to the point of rudeness when replying to emails.</p>
+
+<p>I generally
+try to avoid meetings and conferences as I find the time cost to be huge—I get
+the most value out of time in my office.  However, it is critical that you
+keep enough space in your schedule to allow for chance encounters and exposure
+to new people and ideas.  Having an open network is valuable; though
+probably 90% of the random meetings I take are a waste of time, the other 10%
+really make up for it.</p><p>I find most meetings are best scheduled for 15-20 minutes, or 2 hours.  The default of 1 hour is usually wrong, and leads to a lot of wasted time.</p>
+
+<p>I have
+different times of day I try to use for different kinds of work.  The
+first few hours of the morning are definitely my most productive time of the
+day, so I don’t let anyone schedule anything then.  I try to do meetings
+in the afternoon.  I take a break, or
+switch tasks, whenever I feel my attention starting to fade. </p>
+
+<p>I don’t think
+most people value their time enough—I am surprised by the number of people I
+know who make $100 an hour and yet will spend a couple of hours doing something
+they don’t want to do to save $20.</p>
+
+<p>Also, don’t
+fall into the trap of productivity porn—chasing productivity for its own sake
+isn’t helpful.  Many people spend too much time thinking about how to perfectly
+optimize their system, and not nearly enough asking if they’re working on the
+right problems.  It doesn’t matter what system you use or if you squeeze
+out every second if you’re working on the wrong thing.</p>
+
+<p>The right goal
+is to allocate your year optimally, not your day.</p>
+
+<p><b>Physical factors</b></p>
+
+<p>Very likely
+what is optimal for me won’t be optimal for you.  You’ll have to
+experiment to find out what works best for your body.  It’s definitely worth doing—it helps in all
+aspects of life, and you’ll feel a lot better and happier overall.</p>
+
+<p>It probably
+took a little bit of my time every week for a few years to arrive at what works
+best for me, but my sense is if I do a good job at all the below I’m at least
+1.5x more productive than if not.</p>
+
+<p>Sleep seems to
+be the most important physical factor in productivity for me.  Some sort
+of sleep tracker to figure out how to sleep best is helpful.  I’ve found the only
+thing I’m consistent with are in the set-it-and-forget-it category, and I
+really like the <a href="https://www.amazon.com/gp/product/B0158W3E2A/">Emfit QS+Active</a>.</p>
+
+<p>I like a cold,
+dark, quiet room, and a great mattress (I resisted spending a bunch of money on
+a great mattress for years, which was stupid—it makes a huge difference to my
+sleep quality.  I love <a href="https://www.tempurpedic.com/shop-mattresses/tempur-contour-elite/v/715/">this one</a>).  Not eating a lot in the few hours before sleep
+helps.  Not drinking alcohol helps a lot, though
+I’m not willing to do that all the time.</p>
+
+<p>I use a <a href="https://www.chilitechnology.com">Chili
+Pad</a> to be cold while I sleep if I can’t get the room cold enough, which is
+great but loud (I set it up to have the cooler unit outside my room).</p>
+
+<p>When traveling,
+I use an <a href="https://www.amazon.com/gp/product/B00GSO1D9O/">eye mask</a> and <a href="https://www.amazon.com/gp/product/B001J4HB1C">ear plugs</a>.</p>
+
+<p>This is likely
+to be controversial, but I take a low dose of sleeping pills (like a third of a
+normal dose) or a very low dose of cannabis whenever I can’t sleep.  I am
+a bad sleeper in general, and a particularly bad sleeper when I travel.  It likely has tradeoffs,
+but so does not sleeping well.  If you
+can already sleep well, I wouldn’t recommend this.</p>
+
+<p>I use a full
+spectrum LED light most mornings for about 10-15 minutes while I catch up on
+email.  It’s great—if you try nothing else in here, this is the thing I’d
+try.  It’s a ridiculous gain for me.
+ I like <a href="https://www.amazon.com/gp/product/B075H39NDL/">this one</a>, and it’s easy to travel with.</p>
+
+<p>Exercise is
+probably the second most important physical factor.  I tried a number of
+different exercise programs for a few months each and the one that seemed best
+was lifting heavy weights 3x a week for an hour, and high intensity interval
+training occasionally.  In addition to productivity gains, this is also
+the exercise program that makes me feel the best overall.  </p>
+
+<p>The third area
+is nutrition.  I very rarely eat breakfast, so I get about 15 hours of
+fasting most days (except an espresso when I wake up).  I know this is contrary
+to most advice, and I suspect it’s not optimal for most people, but it
+definitely works well for me.</p>
+
+<p>Eating lots of
+sugar is the thing that makes me feel the worst and that I try hardest to
+avoid.  I also try to avoid foods that aggravate my digestion or spike up
+inflammation (for example, very spicy foods).  I don’t have much willpower when it comes to
+sweet things, so I mostly just try to keep junk food out of the house.</p>
+
+<p>I have one big shot of espresso immediately when I wake up and one after lunch.  I assume this is
+about 200mg total of caffeine per day.  I
+tried a few other configurations; this was the one that worked by far the best.
+ I otherwise aggressively avoid stimulants, but I will have more coffee if
+I’m super tired and really need to get something done.</p>
+
+<p>I’m
+vegetarian and have been since I was a kid, and I supplement methyl B-12, Omega-3, Iron, and Vitamin D-3.  I
+got to this list with a year or so of quarterly blood tests; it’s worked for me
+ever since (I re-test maybe every year and a half or so).  There are many
+doctors who will happily work with you on a super comprehensive blood test (and
+services like <a href="https://www.wellnessfx.com">WellnessFX</a>).  I also go out
+of my way to drink a lot of protein shakes, which I hate and I wouldn’t do if I
+weren’t vegetarian.</p>
+
+<p><b>﻿Other stuff</b><br></p>
+
+<p>Here’s what I
+like in a workspace: natural light, quiet, knowing that I won’t be interrupted
+if I don’t want to be, long blocks of time, and being comfortable and relaxed
+(I’ve got a beautiful desk with a couple of 4k monitors on it in my office, but
+I spend almost all my time on my couch with my laptop).</p>
+
+<p>I wrote custom
+software for the annoying things I have to do frequently, which is great.
+ I also made an effort to learn to type really fast and the keyboard
+shortcuts that help with my workflow.</p>
+
+<p>Like most
+people, I sometimes go through periods of a week or two where I just have no
+motivation to do anything (I suspect it may have something to do with
+nutrition).  This sucks and always seems to happen at inconvenient
+times.  I have not figured out what to do
+about it besides wait for the fog to lift, and to trust that eventually it
+always does.  And I generally try to
+avoid people and situations that put me in bad moods, which is good advice
+whether you care about productivity or not.</p>
+
+<p>In general, I
+think it’s good to overcommit a little bit.  I find that I generally get
+done what I take on, and if I have a little bit too much to do it makes me more
+efficient at everything, which is a way to train to avoid distractions (a great
+habit to build!).  However, overcommitting a lot is disastrous.</p>
+
+<p>Don’t neglect
+your family and friends for the sake of productivity—that’s a very stupid
+tradeoff (and very likely a net productivity loss, because you’ll be less
+happy).  Don’t neglect doing things you love or that clear your head
+either.</p>
+
+<p>Finally, to
+repeat one more time: productivity in the wrong direction isn’t worth anything
+at all.  Think more about what to work on.</p></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1271062' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+1002
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='Productivity' data-url='http://blog.samaltman.com/productivity' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/productivity' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/productivity"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1523377080"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/a-clarification">A Clarification</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1217560">
+    
+      <div class="posthaven-post-body"><p>I made a point in this <a href="http://blog.samaltman.com/e-pur-si-muove">post</a> inelegantly in a way that was
+easy to misunderstand, so I’d like to clarify it.<br></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p></p>
+
+<p>I didn’t mean that we need to tolerate brilliant homophobic
+jerks in the lab so that we can have scientific progress. 
+Although there are famous counterexamples, most of the best scientists
+I’ve met are unusually nice, open-minded people.  Generally I expect that labs that don’t
+tolerate jerks will produce more impressive results than the ones that do, and choosing not to employ jerks is a good idea—jerks usually
+reduce the net output of organizations.</p>
+
+<p>What I meant is simply that we need, as a society, to
+tolerate controversial ideas.  The
+biggest new scientific ideas, and the most important changes to society, both start
+as extremely unpopular ideas.</p>
+
+<p>It was literally heretical, not so long ago, to say that it
+was ok to be gay—the Bible has a different viewpoint.  In a society where we don’t allow challenges
+to the orthodoxy, gay rights would not have happened.</p>
+
+<p>We need to allow free speech because sometimes society is
+wrong—we needed people to be able to say “gay people are ok” at a time when
+“gay people are evil” was the consensus opinion.</p>
+
+<p>It’s probably impossible to design a simple set of rules
+that will always allow the right speech and not the wrong speech (although I am
+sure that in this particular case, it is wrong that gay people in some places
+still fear for their safety.) </p>
+
+<p>So we agree as a society that people are allowed to say
+controversial things, and that free speech goes both ways.  Much of the time people use that privilege to
+be jerks, and we can, should, and do point out why their bigotry is bad.  Sometimes they use it to say that people
+deserve more rights, or that the solar system works in a different way from what the church says—and sometimes we collectively listen. </p>
+
+<p>Over time, this system produces a more and more just world, which says something really good about people as a whole.</p>
+
+<p>I wish we could figure out a way to just never allow hate,
+discrimination, and bigotry and always allow debate on controversial but
+important ideas.  If that were possible,
+I’d support it.  The distinction is
+usually clear, but the exceptions are sometimes critically important.  Figuring out exactly where to draw the line is really hard.</p>
+
+<p>Generations before us believed a lot of things we now
+believe (correctly, in my opinion) to be unethical or wrong.  Future generations will think a lot of things
+we believe today are unethical or wrong. </p>
+
+<p>For example, today it is pretty unpopular to say “anyone who
+eats meat is unethical”.  But this is
+easily a stance I could imagine being commonplace in 50 years, because of
+evolving views on animal rights, impact on the planet, and availability of
+lab-grown replacements.  Perhaps even the
+arrival of AI makes us think differently about being ok eating other beings
+just because they’re much less smart/emotionally sophisticated than we are.</p>
+
+<p>The last time I tried to discuss this with
+someone, he said something like: “Banning eating meat would be infringing on my
+rights, this is not up for discussion.” </p>
+
+<p>I expect the fact that we let people live in
+poverty is also something that future generations will consider an absolute moral failing.  I could go on with a long
+list of other ideas, and I’m sure I can’t even think of some of the most
+important ones.</p>
+
+<p>The point I most wanted to make is that is that it’s
+dangerous to just ban discussion of topics we find offensive, like what
+happened <a href="https://www.washingtonpost.com/national/health-science/cdc-gets-list-of-forbidden-words-fetus-transgender-diversity/2017/12/15/f503837a-e1cf-11e7-89e8-edec16379010_story.html?utm_term=.f7f49424f490">yesterday</a>. </p></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1217560' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+182
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='A Clarification' data-url='http://blog.samaltman.com/a-clarification' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/a-clarification' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/a-clarification"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1513450842"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/e-pur-si-muove">E Pur Si Muove</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1216781">
+    
+      <div class="posthaven-post-body"><p>Earlier
+this year, I noticed something in China that really surprised me.  I
+realized I felt more comfortable discussing controversial ideas in Beijing than
+in San Francisco.  I didn’t feel completely comfortable—this was China,
+after all—just more comfortable than at home.</p>
+
+<p>That showed me just how bad things have become, and how much things
+have changed since I first got started here in 2005.</p>
+
+<p>It
+seems easier to accidentally speak heresies in San Francisco every year.  Debating a controversial idea, even if you
+95% agree with the consensus side, seems ill-advised.</p>
+
+<p>This will be very bad for startups in the Bay Area.</p>
+
+<p>Restricting
+speech leads to restricting ideas and therefore restricted innovation—the most
+successful societies have generally been the most open ones.  Usually mainstream ideas are right and
+heterodox ideas are wrong, but the true and unpopular ideas are what drive the
+world forward.  Also, smart people tend
+to have an allergic reaction to the restriction of ideas, and I’m now seeing
+many of the smartest people I know move elsewhere.</p>
+
+<p>It
+is bad for all of us when people can’t say that the world is a sphere, that
+evolution is real, or that the sun is at the center of the solar system.</p>
+
+<p>More
+recently, I’ve seen credible people working on ideas like pharmaceuticals for
+intelligence augmentation, genetic engineering, and radical life extension
+leave San Francisco because they found the reaction to their work to be so
+toxic.  “If people live a lot longer it
+will be disastrous for the environment, so people working on this must be
+really unethical” was a memorable quote I heard this year.</p>
+
+<p>To
+get the really good ideas, we need to tolerate really bad and wacky ideas too.
+ In addition to the work Newton is best known for, he also studied alchemy
+(the British authorities banned work on this because they feared the
+devaluation of gold) and considered himself to be someone specially chosen by
+the almighty for the task of decoding Biblical scripture.  </p>
+
+<p>You
+can’t tell which seemingly wacky ideas are going to turn out to be right, and
+nearly all ideas that turn out to be great breakthroughs start out sounding
+like terrible ideas.  So if you want a culture that innovates, you can’t
+have a culture where you allow the concept of heresy—if you allow the concept
+at all, it tends to spread.  When we move
+from strenuous debate about ideas to casting the people behind the ideas as
+heretics, we gradually stop debate on all controversial ideas.</p>
+
+<p>This
+is uncomfortable, but it’s possible we have to allow people to say disparaging
+things about gay people if we want them to be able to say novel things about
+physics. [1] Of course we can and should say that ideas are mistaken, but we
+can’t just call the person a heretic.  We
+need to debate the actual idea. </p>
+
+<p>Political
+correctness often comes from a good place—I think we should all be willing to
+make accommodations to treat others well.  But too often it ends up being
+used as a club for something orthogonal to protecting actual victims.  The best ideas are barely possible to express
+at all, and if you’re constantly thinking about how everything you say might be
+misinterpreted, you won’t let the best ideas get past the fragment stage.</p>
+
+<p>I
+don’t know who Satoshi is, but I’m skeptical that he, she, or they would have
+been able to come up with the idea for bitcoin immersed in the current culture of
+San Francisco—it would have seemed too crazy and too dangerous, with too many
+ways to go wrong.  If SpaceX started in San Francisco in 2017, I assume
+they would have been attacked for focusing on problems of the 1%, or for doing
+something the government had already decided was too hard.  I can picture
+Galileo looking up at the sky and whispering “E pur si muove” here today.</p><p>
+<br>Followup: <a href="http://blog.samaltman.com/a-clarification">A Clarification</a><br><br><br><br></p>
+
+<p>[1]
+I am less worried that letting some people on the internet say things like “gay
+people are evil” is going to convince reasonable people that such a
+statement is true than I fear losing the opposite—we needed people to be free to say "gay people are ok" to make the progress we've made, even though it was not a generally acceptable thought several decades ago.</p>
+
+<p>In
+fact, the only ideas I’m afraid of letting people say are the ones that I think
+may be true and that I don’t like.  But I accept that censorship is not
+going to make the world be the way I wish it were.</p></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1216781' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+625
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='E Pur Si Muove' data-url='http://blog.samaltman.com/e-pur-si-muove' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/e-pur-si-muove' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/e-pur-si-muove"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1513271558"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/the-merge">The Merge</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1212724">
+    
+      <div class="posthaven-post-body"><p>A popular topic in Silicon Valley is talking about what year humans and machines will merge (or, if not, what year humans will get surpassed by rapidly improving AI or a genetically enhanced species). Most guesses seem to be between 2025 and 2075.<br></p><p>People used to call this the singularity; now it feels uncomfortable and real enough that many seem to avoid naming it at all.</p><p>Perhaps another reason people stopped using the word “singularity” is that it implies a single moment in time, and it now looks like the merge is going to be a gradual process. And gradual processes are hard to notice.</p><p>I believe the merge has already started, and we are a few years in. Our phones control us and tell us what to do when; social media feeds determine how we feel; search engines decide what we think.</p><p>The algorithms that make all this happen are no longer understood by any one person. They optimize for what their creators tell them to optimize for, but in ways that no human could figure out — they are what today seems like sophisticated AI, and tomorrow will seem like child’s play. And they’re extremely effective — at least speaking for myself, I have a very hard time resisting what the algorithms want me to do. Until I made a real effort to combat it, I found myself getting extremely addicted to the internet. [1]</p><p>We are already in the phase of co-evolution — the AIs affect, effect, and infect us, and then we improve the AI. We build more computing power and run the AI on it, and it figures out how to build even better chips.</p><p>This probably cannot be stopped. As we have learned, scientific advancement eventually happens if the laws of physics do not prevent it.</p><p>More important than that, unless we destroy ourselves first, superhuman AI is going to happen, genetic enhancement is going to happen, and brain-machine interfaces are going to happen. It is a failure of human imagination and human arrogance to assume that we will never build things smarter than ourselves.</p><p>Our self-worth is so based on our intelligence that we believe it must be singular and not slightly higher than all the other animals on a continuum. Perhaps the AI will feel the same way and note that differences between us and bonobos are barely worth discussing.</p><p>The merge can take a lot of forms: We could plug electrodes into our brains, or we could all just become really close friends with a chatbot. But I think a merge is probably our best-case scenario. If two different species both want the same thing and only one can have it—in this case, to be the dominant species on the planet and beyond—they are going to have conflict. We should all want one team where all members care about the well-being of everyone else.</p><p>Although the merge has already begun, it’s going to get a lot weirder. We will be the first species ever to design our own descendants. My guess is that we can either be the biological bootloader for digital intelligence and then fade into an evolutionary tree branch, or we can figure out what a successful merge looks like.</p><p>It’s probably going to happen sooner than most people think. Hardware is improving at an exponential rate—the most surprising thing I’ve learned working on OpenAI is just how correlated increasing computing power and AI breakthroughs are—and the number of smart people working on AI is increasing exponentially as well. Double exponential functions get away from you fast.</p><p>It would be good for the entire world to start taking this a lot more seriously now. Worldwide coordination doesn’t happen quickly, and we need it for this.</p><p><br></p><p><br></p><p>[1] I believe attention hacking is going to be the sugar epidemic of this generation. I can feel the changes in my own life — I can still wistfully remember when I had an attention span. My friends’ young children don’t even know that’s something they should miss. I am angry and unhappy more often, but I channel it into productive change less often, instead chasing the dual dopamine hits of likes and outrage.</p><p>(Cross-posted from https://medium.com/wordsthatmatter/merge-now-430c6d89d1fe to here for consistency; thanks to Medium for inviting me to write this!)</p></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1212724' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+197
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='The Merge' data-url='http://blog.samaltman.com/the-merge' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/the-merge' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/the-merge"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1512665788"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/american-equity">American Equity</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1208716">
+    
+      <div class="posthaven-post-body"><p>I’d like feedback on the following idea.</p><p>I think that every adult US citizen should get an annual share of the US GDP.</p><p>I believe that owning something like a share in America would align all of us in making the country as successful as possible—the better the country does, the better everyone does—and give more people a fair shot at achieving the life they want.  And we all work together to create the system that generates so much prosperity.</p><p>I believe that a new social contract like what I’m suggesting here—where we agree to a floor and no ceiling—would lead to a huge increase in US prosperity and keep us in the global lead.  Countries that concentrate wealth in a small number of families do worse over the long term—if we don’t take a radical step toward a fair, inclusive system, we will not be the leading country in the world for much longer.  This would harm all Americans more than most realize.</p><p>There are historical examples of countries giving out land to citizens (such as the Homestead Acts in the US) as a way to distribute the resources people needed to succeed.  Today, the fundamental input to wealth generation isn’t farmland, but money and ideas—you really do need money to make money.</p><p>American Equity would also cushion the transition from the jobs of today to the jobs of tomorrow.  Automation holds the promise of creating more abundance than we ever dreamed possible, but it’s going to significantly change how we think about work.  If everyone benefits more directly from economic growth, then it will be easier to move faster toward this better world.</p><p>The default case for automation is to concentrate wealth (and therefore power) in a tiny number of hands.  America has repeatedly found ways to challenge this sort of concentration, and we need to do so again.</p><p>The joint-stock company was one of the most important inventions in human history.  It allowed us to align a lot of people in pursuit of a common goal and accomplish things no individual could.  Obviously, the US is not a company, but I think a similar model can work for the US as well as it does for companies.</p><p>A proposal like this obviously requires a lot of new funding [1] to do at large scale, but I think we could start very small—a few hundred dollars per citizen per year—and ramp it up to a long-term target of 10-20% of GDP per year when the GDP per capita doubles.</p><p>I have no delusions about the challenges of such a program.  There would be difficult consequences for things like immigration policy that will need a lot of discussion.  We’d also need to figure out rules about transferability and borrowing against this equity.  And we’d need to set it up in a way that does not exacerbate short-term thinking or favor unsustainable growth.</p><p>However, as the economy grows, we could imagine a world in which every American would have their basic needs guaranteed.  Absolute poverty would be eliminated, and we would no longer motivate people through the fear of not being able to eat.  In addition to being the obviously right thing to do, eliminating poverty will increase productivity.</p><p>American Equity would create a society that I believe would work much better than what we have today.  It would free Americans to work on what they really care about, improve social cohesion, and incentivize everyone to think about ways to grow the whole pie. </p><p> </p><p><br></p><p>[1] It’s time to update our tax system for the way wealth works in the modern world—for example, taxing capital and labor at the same rates.  And we should consider eventually replacing some of our current aid programs, which distort incentives and are needlessly complicated and inefficient, with something like this.</p><p>Of course this won’t solve all our problems—we still need serious reform in areas such as housing, education, and healthcare.  Without policies that address the cost of living crisis, any sort of redistribution will be far less effective than it otherwise could be.</p><div><br></div></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1208716' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+291
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='American Equity' data-url='http://blog.samaltman.com/american-equity' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/american-equity' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/american-equity"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1511803482"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/the-united-slate">The United Slate</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1172795">
+    
+      <div class="posthaven-post-body"><p>I would like to find and support a slate of candidates for the 2018 California elections, and also to find someone to run a ballot initiative focused on affordable housing in the state.  A team of aligned people has a chance to make a real change.</p><p>I believe in creating prosperity through technology, economic fairness, and maintaining personal liberty.<br></p><p>We are in the middle of a massive technological shift—the automation revolution will be as big as the agricultural revolution or the industrial revolution.  We need to figure out a new social contract, and to ensure that everyone benefits from the coming changes.<br></p><p>Today, we have massive wealth inequality, little economic growth, a system that works for people born lucky, and a cost of living that is spiraling out of control.  What we've been trying for the past few decades hasn't been working—I think it's time to consider some new ideas.</p><p>More information about the principles and policies I believe in is at the link below.</p><p><a href="http://unitedslate.samaltman.com">http://unitedslate.samaltman.com</a></p></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1172795' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+116
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='The United Slate' data-url='http://blog.samaltman.com/the-united-slate' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/the-united-slate' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/the-united-slate"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1499870021"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+    <article class="post">
+      
+  <header>
+    
+
+    <div class="post-title">
+      <h2><a href="http://blog.samaltman.com/join-the-yc-software-team">Join the YC Software Team</a></h2>
+
+      
+    </div>
+  </header>
+
+  <div class="post-body" id="post_body_1155072">
+    
+      <div class="posthaven-post-body"><p>If you want to get funded by YC as a founder in the future, but you don't have a startup that's ready for that yet, joining the YC software team is a great hack to get there.</p><div>The YC software team is a small group of hackers in SF that write the software that makes all the parts of YC work.</div><div><i><br></i></div><div>As a member of the software team, you'll get full access to the YC program, just like founders do.  You'll learn the ins and outs of how YC works, and you'll get to follow and learn from hundreds of companies.  You'll meet the best people in the startup world and get exposed to the best startup ideas.</div><div><br></div><div>Software is how we can scale YC, and the limits of that are probably further out than most people think.</div><div><i><br></i></div><div>You can apply here: <a href="http://bit.ly/1Od0T2l" target="_blank" title="Link: http://bit.ly/1Od0T2l">http://bit.ly/1Od0T2l</a>.</div></div>
+    
+  </div>
+
+
+
+      <footer class="homepage-post-footer">
+        
+
+        <div class='posthaven-share-links'>
+<div class='posthaven-share-item'>
+<a class='posthaven-upvote posthaven-control' data-post-id='1155072' href='javascript:void(0);'>
+<span class='posthaven-upvote-holder'>
+<span class='posthaven-upvote-icon'>
+<span class='posthaven-upvote-side'></span>
+<span class='posthaven-upvote-arrow'></span>
+</span>
+<span class='posthaven-upvote-label-area'>
+<span class='posthaven-upvote-label'>Upvote</span>
+<span class='posthaven-upvoted-label'>Upvoted</span>
+<span class='posthaven-upvote-number'>
+130
+</span>
+</span>
+</span>
+</a>
+
+</div>
+<div class='posthaven-share-item posthaven-twitter-share'>
+<a class='twitter-share-button share-item' data-text='Join the YC Software Team' data-url='http://blog.samaltman.com/join-the-yc-software-team' href='https://twitter.com/share'>Tweet</a>
+</div>
+<div class='posthaven-share-item posthaven-facebook-share'>
+<div class='fb-share-button' data-href='http://blog.samaltman.com/join-the-yc-software-team' data-layout='button_count'></div>
+</div>
+</div>
+
+
+        
+
+        <span class="display-date">
+          Posted
+          <a href="http://blog.samaltman.com/join-the-yc-software-team"><span class="posthaven-formatted-date" data-format="RELATIVE"
+                  data-unix-time="1495153507"></span></a>
+          
+        </span>
+      </footer>
+    </article>
+  
+
+  
+    <div class="pagination">
+      <ul class='posthaven-default-pagination'>
+<li class='number active'>
+<a href='/'>1</a>
+</li>
+<li class='number'>
+<a href='/?page=2'>2</a>
+</li>
+<li class='number'>
+<a href='/?page=3'>3</a>
+</li>
+<li class='number'>
+<a href='/?page=4'>4</a>
+</li>
+<li class='number'>
+<a href='/?page=5'>5</a>
+</li>
+<li class='gap'>
+<a href='javascript:void(0)'>…</a>
+</li>
+<li class='next'>
+<a href='/?page=2'>Next</a>
+</li>
+<li class='last'>
+<a href='/?page=10'>Last</a>
+</li>
+</ul>
+
+    </div>
+  
+</div>
+
+<aside id='sidebar'>
+  
+
+  <section id='bio'>
+  <h3>Sam Altman</h3>
+    <div class="subscribe">
+      <form action='/posthaven/subscription' class='posthaven-subscribe-form posthaven-control'>
+<a class='posthaven-anon posthaven-subscribe-prompt' href='javascript:void(0)'>
+Subscribe by Email
+</a>
+<div class='posthaven-user-required' style='display:none'>
+<div class='posthaven-user-unsubscribe' style='display: none'>
+You're following this blog.
+<a data-method='DELETE' href='javascript:void(0);'>
+Unfollow
+</a>
+</div>
+<div class='posthaven-user-subscribe'>
+<a data-method='POST' href='javascript:void(0);'>
+Follow this Posthaven
+</a>
+</div>
+</div>
+<div class='posthaven-anon posthaven-subscribe-anon' style='display:none'>
+Enter your email address to get email alerts about new posts on this site.
+Unsubscribe anytime.
+
+<div class='posthaven-subscribe-error posthaven-form-error' style='display:none'>
+Email address is invalid.
+</div>
+<input name='email_address' placeholder='Email Address' type='text'>
+<input type='submit' value='Subscribe'>
+</div>
+</form>
+
+    </div>
+  
+  <a href="https://twitter.com/sama" class="twitter-follow-button" data-show-count="false">Follow @sama</a>
+  
+
+  
+
+</section>
+
+
+  <section class="search-archive">
+    <form action='/archive' class='posthaven-archive-form'>
+<input name='query' placeholder='Search this site...' type='text'>
+</form>
+
+
+     <div class="archive-link">
+       <a href="/archive">Browse the Archive&nbsp;&raquo;</a>
+     </div>
+  </section>
+
+  
+
+
+  
+
+  
+  <section>
+    <nav id="menu_blogroll">
+      <ul>
+        
+          
+        
+      </ul>
+    </nav>
+  </section>
+
+
+  <section id="feed_link">
+  <a href="http://blog.samaltman.com/posts.atom">
+    <span class="feed-icon"></span>
+  </a>
+</section>
+
+</aside>
+
+
+      </div>
+    </div>
+
+    <script async="async" src="//platform.twitter.com/widgets.js"
+              type="text/javascript"></script>
+      <script src="//posthaven-assets.s3.amazonaws.com/assets/blog-f05c048b8b4f9a1a3ed039dee80a1cb2.js"
+              type="text/javascript"></script>
+      
+      <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-38525690-2']);
+          _gaq.push(['_setAllowLinker', true]);
+          _gaq.push(['_trackPageview']);
+        </script>
+        
+        <script>
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+                    '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+  </body>
+</html>
