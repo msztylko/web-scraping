@@ -1,4 +1,6 @@
-import requests, os
+import os
+import requests
+from selenium import webdriver
 
 url = 'http://blog.samaltman.com'
 dir_name = 'sam-altman'
@@ -41,4 +43,12 @@ print("Succesfully downloaded {} blog posts and "
       "encountered problems with {} blog posts, namely: {}."
       .format(downloaded, error_count, [x for x in incorrect_urls]))
 
+browser = webdriver.Chrome()
+browser.get(url)
+try:
+    elem = browser.find_element_by_class_name('search-archive')
+    print("The {} element was found".format(elem.tag_name))
+except:
+    print("No element was found.")
+elem.send_keys()
 
