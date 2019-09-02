@@ -41,7 +41,7 @@ for fav_url in fav_urls:
 
 print("Succesfully downloaded {} blog posts and "
       "encountered problems with {} blog posts, namely: {}."
-      .format(downloaded, error_count, [x for x in incorrect_urls]))
+      .format(downloaded, error_count, incorrect_urls))
 
 browser = webdriver.Chrome()
 for i in incorrect_urls:
