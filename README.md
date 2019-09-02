@@ -10,3 +10,6 @@ Tasks involved:
 * use of Selenium module for 3 blog posts with urls that didn't follow standard pattern
 
 There are probably better ways to achieve this task and I may try them in the future, but for now the real goal was to get familiar with requests and selenium modules and web scraping in general.
+
+Possible next steps:
+1. Take all html files and convert them into one pdf file to create a "book"
