@@ -12,12 +12,13 @@ with open('fav_blog_posts.txt') as file:
     lines = file.readlines()
     for line in lines:
         #remove ? , - ' from url
-        line = line.lower().replace('?', '').replace(',', '').replace('-', '').replace("'", "").split()
+        line = line.lower().replace('?', ' ').replace(',', ' ').replace('-', ' ').replace("'", " ").split()
         fav_url = '-'.join(line)
         fav_urls.add(fav_url)
 
 error_count = 0
 downloaded = 0
+incorrect_urls = []
 for fav_url in fav_urls:
     full_url = url + '/' + fav_url
     print('Accessing webpage {}'.format(full_url))
@@ -28,12 +29,16 @@ for fav_url in fav_urls:
         with open(file_path, 'wb') as file:
             for chunk in res.iter_content(100000):
                 file.write(chunk)
-                print("Succesfully downloaded {}".format(fav_url))
+        print("Succesfully downloaded {}".format(fav_url))
         downloaded += 1
     except Exception as exc:
         print('Problem {}'.format(exc))
         error_count += 1
+        incorrect_urls.append(fav_url)
     print()
 
 print("Succesfully downloaded {} blog posts and "
-      "encountered problems with {} blog posts.". format(downloaded, error_count))
+      "encountered problems with {} blog posts, namely: {}."
+      .format(downloaded, error_count, [x for x in incorrect_urls]))
+
+
