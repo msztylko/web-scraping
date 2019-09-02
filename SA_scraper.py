@@ -44,11 +44,13 @@ print("Succesfully downloaded {} blog posts and "
       .format(downloaded, error_count, [x for x in incorrect_urls]))
 
 browser = webdriver.Chrome()
-browser.get(url)
-try:
-    elem = browser.find_element_by_class_name('search-archive')
-    print("The {} element was found".format(elem.tag_name))
-except:
-    print("No element was found.")
-elem.send_keys()
-
+for i in incorrect_urls:
+    i = i.replace('-', '+')
+    browser.get("https://www.google.com/search?q=" + i + " sam altman")
+    matched_elements = browser.find_elements_by_xpath('//a[contains(@href, "samaltman.com")]')
+    if matched_elements:
+        i = i.replace('+', '-')
+        matched_elements[0].click()
+        file_path = os.path.join(path, i + ".html")
+        with open(file_path, 'w') as file:
+            file.write(browser.page_source)
