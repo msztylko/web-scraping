@@ -8,7 +8,7 @@ os.makedirs(dir_name, exist_ok=True) #create directory for saving all fav blog p
 path = os.path.join(os.getcwd(), dir_name)
 
 #I have a file fav_blog_posts.txt with the titles of my fav articles in each line
-#Correct urls have no ? , - ' and are contected by - between each word
+#Correct urls have no ? , - ' and are connected by - between each word
 fav_urls = set()
 with open('fav_blog_posts.txt') as file:
     lines = file.readlines()
