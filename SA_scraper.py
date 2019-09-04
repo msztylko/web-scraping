@@ -11,7 +11,6 @@ path = os.path.join(os.getcwd(), dir_name)
 #Correct urls have no ? , - ' and are connected by - between each word
 fav_urls = set()
 with open('fav_blog_posts.txt') as file:
-#    lines = file.readlines()
     for line in file:
         #remove ? , - ' from url
         line = line.lower().replace('?', ' ').replace(',', ' ').replace('-', ' ').replace("'", " ").split()
@@ -49,8 +48,10 @@ for i in incorrect_urls:
     browser.get("https://www.google.com/search?q=" + i + " sam altman")
     matched_elements = browser.find_elements_by_xpath('//a[contains(@href, "samaltman.com")]')
     if matched_elements:
-        i = i.replace('+', '-')
         matched_elements[0].click()
+        i = i.replace('+', '-')
         file_path = os.path.join(path, i + ".html")
         with open(file_path, 'w') as file:
             file.write(browser.page_source)
+
+browser.quit()
