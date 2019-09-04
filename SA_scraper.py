@@ -11,8 +11,8 @@ path = os.path.join(os.getcwd(), dir_name)
 #Correct urls have no ? , - ' and are connected by - between each word
 fav_urls = set()
 with open('fav_blog_posts.txt') as file:
-    lines = file.readlines()
-    for line in lines:
+#    lines = file.readlines()
+    for line in file:
         #remove ? , - ' from url
         line = line.lower().replace('?', ' ').replace(',', ' ').replace('-', ' ').replace("'", " ").split()
         fav_url = '-'.join(line)
