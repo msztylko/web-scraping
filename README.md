@@ -13,3 +13,6 @@ There are probably better ways to accomplish this task and I may try them in the
 
 Possible next steps:
 1. Take all html files and convert them into one PDF file to create a "book"
+
+Resources:  
+https://realpython.com/podcasts/rpp/12/
