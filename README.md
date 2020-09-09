@@ -15,4 +15,5 @@ Possible next steps:
 1. Take all html files and convert them into one PDF file to create a "book"
 
 Resources:  
-https://realpython.com/podcasts/rpp/12/
+https://realpython.com/podcasts/rpp/12/  
+https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/
